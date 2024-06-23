@@ -1,0 +1,26 @@
+.wrapper {
+  padding: 2rem;
+  margin: 2rem;
+  width: 36rem;
+  flex-wrap: wrap;
+
+  text-align: center;
+  font-size: 2rem;
+
+  border-radius: 60px;
+  background-color: rgb(249, 203, 255);
+}
+
+.wrapper button {
+  padding: 1rem;
+  border-radius: 36px;
+  border: 2px solid rgb(216, 150, 225);
+  background-color: rgb(192, 121, 201);
+  font-size: 2rem;
+  color: aliceblue;
+}
+
+.wrapper button:hover{
+  border: 2px solid rgb(194, 126, 203);
+  background-color: rgb(189, 72, 204);
+}
